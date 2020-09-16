@@ -67,3 +67,4 @@ except IOError:
 serverSocket.close()
 sys.exit()#Terminate the program after sending the corresponding data
 ```
+![result](./result.PNG)
