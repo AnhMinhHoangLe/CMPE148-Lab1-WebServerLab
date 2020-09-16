@@ -67,6 +67,6 @@ except IOError:
 serverSocket.close()
 sys.exit()#Terminate the program after sending the corresponding data
 ```
-### `Result Picture`
-![Result Picture](./Image Result/result.PNG)
+
+![result](./result.PNG)
 
